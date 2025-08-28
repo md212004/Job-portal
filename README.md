@@ -23,11 +23,4 @@ A dynamic Job Portal web application built using Java, JSP, MySQL, and modern fr
 ![Screenshot 2]()
 ![Screenshot 3]()
 
-## Installation and Usage
-1. Clone the repository: `git clone https://github.com/jainamthakkar/Job-Portal.git`
-2. Set up the MySQL database using the GUI or CMD.
-3. Build and deploy the project on a Java Servlet container (e.g., Apache Tomcat)
-4. Access the application via `http://localhost:8081/job-portal`
 
-## Contributors
-- [Jainam Thakkar](https://github.com/jainamthakkar)
